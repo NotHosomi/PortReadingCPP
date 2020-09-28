@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GamesTech/Learning/FinalProject/ComPorts/PortReadingCPP/Main.cpp
+iostream
+-
+windows.h
+-
+Serial.hpp
+C:/GamesTech/Learning/FinalProject/ComPorts/PortReadingCPP/Serial.hpp
+chrono
+-
+
+C:/GamesTech/Learning/FinalProject/ComPorts/PortReadingCPP/Serial.hpp
+windows.h
+-
+stdio.h
+-
+stdlib.h
+-
+

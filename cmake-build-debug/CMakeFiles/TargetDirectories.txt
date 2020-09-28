@@ -1,0 +1,3 @@
+C:/GamesTech/Learning/FinalProject/ComPorts/PortReadingCPP/cmake-build-debug/CMakeFiles/PortReadingCPP.dir
+C:/GamesTech/Learning/FinalProject/ComPorts/PortReadingCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GamesTech/Learning/FinalProject/ComPorts/PortReadingCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
